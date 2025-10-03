@@ -1,5 +1,5 @@
 {
-  "id": material-fox-updated",
+  "id": "material-fox-updated",
   "name": "MaterialFox UPDATED",
   "description": "A Firefox user CSS theme that looks similar to Chrome. ",
   "homepage": "https://github.com/edelvarden/material-fox-updated",,
@@ -16,3 +16,4 @@
   "updatedAt": "2025-09-21",
   "fork": ["firefox"]
 }
+
